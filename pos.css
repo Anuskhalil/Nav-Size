@@ -1,0 +1,40 @@
+.parent {
+    width: 50%;
+    height: 50vh;
+    background-color: gray;
+}
+
+.child {
+    width: 50px;
+    height: 50px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.dummy{
+    height: 100vh;
+    width: 100%;
+    border: 1px solid red;
+    background-color: bisque ;
+}
+
+nav{
+    width: 100%;
+    height: 30px;
+    background-color: aqua;
+    position: sticky;
+    top: 0;
+}
